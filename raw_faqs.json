@@ -1,0 +1,885 @@
+{
+    "faqs": [
+        {
+            "id": "faq_001",
+            "question": "What are the eligibility criteria of Murabaha Plus?",
+            "answer": "1. Engage in Shariah-compliant line of business. 2. Recent or renewed investment license, Commercial Registration Certificate and/or Trade License.",
+            "category": "financing",
+            "subcategory": "islamic_banking",
+            "keywords": ["eligibility", "Murabaha", "Shariah-compliant", "requirements", "documents"],
+            "related_questions": ["faq_002", "faq_003"]
+        },
+        {
+            "id": "faq_002",
+            "question": "What is the minimum balance for savings account?",
+            "answer": "The minimum balance required for a savings account at Dashen Bank is 100 Birr.",
+            "category": "accounts",
+            "subcategory": "savings",
+            "keywords": ["minimum balance", "savings", "account requirements"],
+            "related_questions": ["faq_003"]
+        },
+        {
+            "id": "faq_003",
+            "question": "How can I check my account balance?",
+            "answer": "You can check your balance through: 1. Dashen Bank's mobile app 2. Any Dashen Bank ATM 3. Visiting your nearest branch 4. Internet banking",
+            "category": "services",
+            "subcategory": "account_services",
+            "keywords": ["balance", "check balance", "account balance"],
+            "related_questions": ["faq_002"]
+        },
+        {
+            "id": "faq_004",
+            "question": "What documents do I need to open an account?",
+            "answer": "To open an account, you need: 1. Valid government-issued ID 2. Proof of residence (utility bill) 3. Two recent passport-sized photographs 4. Initial deposit amount",
+            "category": "accounts",
+            "subcategory": "account_opening",
+            "keywords": ["documents", "account opening", "requirements"],
+            "related_questions": ["faq_002"]
+        },
+        {
+            "id": "faq_005",
+            "question": "What is Dashen Bank super app?",
+            "answer": "Dashen Bank super app is an innovative platform which offers a comprehensive suite of banking and lifestyle services, consolidating various features into a singular, user-friendly interface.",
+            "category": "digital_banking",
+            "subcategory": "mobile_app",
+            "keywords": ["super app", "mobile banking", "digital services", "platform"],
+            "related_questions": ["faq_006", "faq_007"]
+        },
+        {
+            "id": "faq_006",
+            "question": "What are the Dashen Super App Key Features and Benefits?",
+            "answer": "1. Retail Customers: Easy fund transfers, account access, mini-apps, chat banking, payment services, and personalized financial budgeting. 2. MSMEs: Quick loan applications, expense tracking, and credit scoring. 3. Corporate Customers: Robust solutions for managing large transactions, chequebook requests, and additional mini-apps such as flight booking. 4. Interest-Free Banking Clients: Shariah-compliant services and ethical banking practices.",
+            "category": "digital_banking",
+            "subcategory": "features",
+            "keywords": ["features", "benefits", "retail", "MSME", "corporate", "Islamic banking"],
+            "related_questions": ["faq_005", "faq_007"]
+        },
+        {
+            "id": "faq_007",
+            "question": "How can I manage my profile and settings?",
+            "answer": "You can manage your profile by going to 'Profile' on the bottom menu. Features include: 1. Change profile picture 2. Update PIN 3. Manage account settings 4. Set default account 5. Enable/disable budget pop-ups 6. Turn on biometric login 7. View terms and legal information 8. Get help 9. Unlink device or log out",
+            "category": "digital_banking",
+            "subcategory": "account_management",
+            "keywords": ["profile", "settings", "PIN", "biometric", "account management"],
+            "related_questions": ["faq_008", "faq_009"]
+        },
+        {
+            "id": "faq_008",
+            "question": "Is there a way to get statements or records of my transactions?",
+            "answer": "Yes, through the 'Statement' menu in the app. Process: 1. Click 'Statement' menu on home page 2. Select your account 3. Choose starting and ending dates 4. Click 'Generate' to view statement with transaction details and balances.",
+            "category": "digital_banking",
+            "subcategory": "statements",
+            "keywords": ["statements", "transaction records", "account history", "generate statement"],
+            "related_questions": ["faq_009", "faq_007"]
+        },
+        {
+            "id": "faq_009",
+            "question": "How can I view my transaction history for different transactions?",
+            "answer": "All transactions are recorded on the Transactions page, showing title, amount, date, and transaction type. Each transaction includes a detailed page with complete information. Users can print or download transaction receipts using the download button.",
+            "category": "digital_banking",
+            "subcategory": "transactions",
+            "keywords": ["transaction history", "receipts", "transaction details", "download"],
+            "related_questions": ["faq_008", "faq_007"]
+        },
+        {
+            "id": "faq_010",
+            "question": "What happens when the budget time period ends?",
+            "answer": "When your budget time period ends, it moves to 'Previous Budgets' with a history of your expenses.",
+            "category": "digital_banking",
+            "subcategory": "budgeting",
+            "keywords": ["budget", "expenses", "history", "previous budgets"],
+            "related_questions": ["faq_011", "faq_012"]
+        },
+        {
+            "id": "faq_011",
+            "question": "Is there a budget management feature, and how does it work?",
+            "answer": "Yes, access the budget management feature through the 'Budget' menu on the home page. Features include: 1. Create budgets for specific time periods 2. Categorize expenses 3. Track spending 4. Allocate transactions to budgets 5. Manually add expenses",
+            "category": "digital_banking",
+            "subcategory": "budgeting",
+            "keywords": ["budget management", "expense tracking", "spending", "categorization"],
+            "related_questions": ["faq_010", "faq_012"]
+        },
+        {
+            "id": "faq_012",
+            "question": "What is the chat option, and what can I do with it?",
+            "answer": "The chat option connects you with other Dashen Super App users. Features include: 1. Send money 2. Request money 3. Top up phone. Complete transactions directly from chat by selecting the menu, adding amount, and confirming with PIN or OTP + PIN.",
+            "category": "digital_banking",
+            "subcategory": "chat_services",
+            "keywords": ["chat", "money transfer", "request money", "top up"],
+            "related_questions": ["faq_013", "faq_015"]
+        },
+        {
+            "id": "faq_013",
+            "question": "What are mini apps in the app?",
+            "answer": "Mini apps are integrated smaller applications within the main app that provide various services. They enable users to access different sectors' services (payments, shopping, banking) in one place without downloading separate apps, leveraging the main app's features for convenience.",
+            "category": "digital_banking",
+            "subcategory": "features",
+            "keywords": ["mini apps", "integrated services", "features", "convenience"],
+            "related_questions": ["faq_012", "faq_014"]
+        },
+        {
+            "id": "faq_014",
+            "question": "How do I request money from someone?",
+            "answer": "Process: 1. Select 'Request Money' on Home Page 2. Enter recipient's account number 3. Enter amount 4. Submit request. Track request status under 'My Requests' (paid, waiting approval, rejected, or canceled).",
+            "category": "digital_banking",
+            "subcategory": "money_transfer",
+            "keywords": ["request money", "transfer", "payment request", "tracking"],
+            "related_questions": ["faq_012", "faq_015"]
+        },
+        {
+            "id": "faq_015",
+            "question": "Can I make payments to merchants separately?",
+            "answer": "Yes. Steps: 1. Select 'Merchant Payment' menu on home page 2. Enter merchant's till number/ID or scan QR code 3. Enter amount 4. Select account 5. Confirm transaction 6. Enter PIN or OTP + PIN to complete payment.",
+            "category": "digital_banking",
+            "subcategory": "payments",
+            "keywords": ["merchant payment", "till number", "QR code", "payment process"],
+            "related_questions": ["faq_014", "faq_012"]
+        },
+        {
+            "id": "faq_016",
+            "question": "How can I pay with a QR code and receive payments using a QR code?",
+            "answer": "To pay: 1. Tap 'Pay with QR' on Home page 2. Scan merchant's/user's QR code 3. Amount auto-fills or add manually (including tip) 4. Choose account 5. Confirm and enter PIN/OTP+PIN. To receive: Tap 'My QR' on Home page to display your QR code for others to scan.",
+            "category": "digital_banking",
+            "subcategory": "payments",
+            "keywords": ["QR code", "payments", "scan", "receive payments"],
+            "related_questions": ["faq_015", "faq_017"]
+        },
+        {
+            "id": "faq_017",
+            "question": "Can I transfer money to my own accounts?",
+            "answer": "Yes. Process: 1. Select 'Transfer to My Own Account' 2. Choose source and destination accounts 3. Enter amount 4. Confirm transaction 5. Enter PIN or OTP + PIN. Transfers between your accounts are processed instantly.",
+            "category": "digital_banking",
+            "subcategory": "transfers",
+            "keywords": ["transfer", "own accounts", "internal transfer"],
+            "related_questions": ["faq_016", "faq_018"]
+        },
+        {
+            "id": "faq_018",
+            "question": "Can I make deposits to Microfinances?",
+            "answer": "Yes. Steps: 1. Select 'Microfinance' menu on Home Page 2. Choose institution (Awach, Sahay, etc.) 3. Enter deposit amount 4. Select account 5. Confirm transaction 6. Enter PIN or OTP + PIN to complete deposit.",
+            "category": "digital_banking",
+            "subcategory": "deposits",
+            "keywords": ["microfinance", "deposits", "Awach", "Sahay"],
+            "related_questions": ["faq_017", "faq_019"]
+        },
+        {
+            "id": "faq_019",
+            "question": "How do I load money into my wallet?",
+            "answer": "Process: 1. Select 'Load Wallet' on Home Page 2. Choose wallet (Telebirr, M-Pesa, etc.) 3. Enter linked phone number 4. Select source account 5. Specify amount 6. Confirm and enter PIN/OTP+PIN for instant transfer.",
+            "category": "digital_banking",
+            "subcategory": "wallet",
+            "keywords": ["wallet", "load money", "Telebirr", "M-Pesa"],
+            "related_questions": ["faq_018", "faq_020"]
+        },
+        {
+            "id": "faq_020",
+            "question": "Can I make Bill payments through the app?",
+            "answer": "Yes. Steps: 1. Select 'Bill Payments' on Home Page 2. Choose service (Ethiopian Airlines, school fees, traffic authority, fuel payments) 3. Enter payment code 4. Review amount 5. Select payer account 6. Confirm and enter PIN/OTP+PIN to complete payment.",
+            "category": "digital_banking",
+            "subcategory": "bill_payments",
+            "keywords": ["bill payments", "utilities", "services", "payment code"],
+            "related_questions": ["faq_019", "faq_015"]
+        },
+        {
+            "id": "faq_021",
+            "question": "What is IPS Transfers?",
+            "answer": "IPS (Instant Payment Service) is a faster alternative to regular bank transfers. Process: 1. Select bank from list 2. Enter recipient's account number 3. Confirm with PIN or OTP + PIN 4. Transfer funds instantly. It works like 'Send to Other Banks' but with immediate processing.",
+            "category": "digital_banking",
+            "subcategory": "transfers",
+            "keywords": ["IPS", "instant payment", "bank transfer", "quick transfer"],
+            "related_questions": ["faq_023", "faq_024"]
+        },
+        {
+            "id": "faq_022",
+            "question": "How can I top up my mobile airtime?",
+            "answer": "Steps: 1. Select 'Mobile Top-Up' on Home Page 2. Choose telecom operator (Safaricom/Ethio-telecom) 3. Select 'For My Number' or 'For Others' 4. Enter phone number if for others 5. Choose amount 6. Confirm and enter PIN for instant top-up.",
+            "category": "digital_banking",
+            "subcategory": "mobile_services",
+            "keywords": ["airtime", "top-up", "mobile", "telecom"],
+            "related_questions": ["faq_019", "faq_020"]
+        },
+        {
+            "id": "faq_023",
+            "question": "Can I transfer money to other banks?",
+            "answer": "Yes. Process: 1. Select 'Transfer to Other Banks' on Home Page 2. Choose recipient's bank 3. Enter account number 4. Select your account 5. Specify amount 6. Enter PIN 7. Wait for success notification.",
+            "category": "digital_banking",
+            "subcategory": "transfers",
+            "keywords": ["bank transfer", "other banks", "money transfer"],
+            "related_questions": ["faq_021", "faq_024"]
+        },
+        {
+            "id": "faq_024",
+            "question": "How do I transfer money to another Dashen account?",
+            "answer": "Steps: 1. Select 'Transfer to Dashen Account' on Home Page 2. Enter recipient's account number 3. Choose your linked account 4. Specify amount 5. Select budget category (optional) 6. Enter PIN or OTP + PIN 7. Wait for confirmation message.",
+            "category": "digital_banking",
+            "subcategory": "transfers",
+            "keywords": ["transfer", "Dashen account", "internal transfer"],
+            "related_questions": ["faq_023", "faq_017"]
+        },
+        {
+            "id": "faq_025",
+            "question": "What can I see on the home page?",
+            "answer": "Home page displays: 1. Account balance with linked account number 2. Set budgets 3. Multiple linked accounts as separate cards 4. Key transfer features (Send to Dashen, Send to Other Banks) 5. Mobile top-up options 6. Utility payments 7. Transaction options 8. Notification menu.",
+            "category": "digital_banking",
+            "subcategory": "interface",
+            "keywords": ["home page", "dashboard", "features", "display"],
+            "related_questions": ["faq_024", "faq_026"]
+        },
+        {
+            "id": "faq_026",
+            "question": "How do I reset my PIN if I forget it?",
+            "answer": "Process: 1. Use reset option on login page 2. Visit nearest Dashen bank branch 3. Branch officer sends verification page 4. Reset PIN. Note: After five wrong login attempts, account will be locked, requiring PIN reset through branch visit.",
+            "category": "digital_banking",
+            "subcategory": "security",
+            "keywords": ["PIN reset", "forgot PIN", "account lock", "security"],
+            "related_questions": ["faq_027", "faq_025"]
+        },
+        {
+            "id": "faq_027",
+            "question": "Can I activate my account if I change phones or uninstall the app?",
+            "answer": "Yes. Steps: 1. Select 'activate account' on first screen 2. Visit nearest Dashen branch 3. Get OTP code verification from branch officer 4. Complete activation process. Note: Branch visit required for security purposes.",
+            "category": "digital_banking",
+            "subcategory": "account_management",
+            "keywords": ["account activation", "new phone", "reinstall", "OTP"],
+            "related_questions": ["faq_026", "faq_025"]
+        },
+        {
+            "id": "faq_028",
+            "question": "Can I link my existing Dashen account to the super app?",
+            "answer": "Yes. Steps: 1. Open app and select 'Link Account' 2. Enter phone number and account number 3. Verify with OTP 4. Create new PIN 5. Visit nearest Dashen Bank branch for account activation and linking.",
+            "category": "digital_banking",
+            "subcategory": "account_setup",
+            "keywords": ["link account", "existing account", "activation", "OTP"],
+            "related_questions": ["faq_029", "faq_030"]
+        },
+        {
+            "id": "faq_029",
+            "question": "Can I open a new Dashen Bank account and manage it within the Super App?",
+            "answer": "Yes. Process: 1. Open app and select 'Create Account' 2. Fill required information 3. Verify identity 4. Set up app account 5. Visit nearest Dashen bank branch to open account 6. Link account to app for full management.",
+            "category": "digital_banking",
+            "subcategory": "account_setup",
+            "keywords": ["new account", "account creation", "setup", "branch visit"],
+            "related_questions": ["faq_028", "faq_030"]
+        },
+        {
+            "id": "faq_030",
+            "question": "How can I create a Dashen Super App account and log in? What options does the app provide for signing up?",
+            "answer": "App provides three onboarding options: 1. 'Create New Account' - for setting up both super app and bank accounts 2. 'Link Existing Account' - for connecting existing Dashen accounts 3. 'Activate Account' - for accounts needing activation.",
+            "category": "digital_banking",
+            "subcategory": "account_setup",
+            "keywords": ["signup", "onboarding", "account creation", "activation"],
+            "related_questions": ["faq_028", "faq_029"]
+        },
+        {
+            "id": "faq_031",
+            "question": "What are the main features of the Sharik Warehouse Receipt Financing?",
+            "answer": "Key features: 1. Short-term financing for working capital needs 2. Serves both buyers and sellers of agricultural commodities 3. Quick processing and disbursement 4. Maximum 6-month tenure 5. Secured by warehouse receipts 6. Up to 70% financing of WR value 7. Minimum draw-down of 200,000.00 Birr per WR 8. Customer may act as bank's sales agent 9. Bank reserves right for direct third-party sales.",
+            "category": "financing",
+            "subcategory": "warehouse_receipt",
+            "keywords": ["Sharik", "warehouse receipt", "financing", "agricultural"],
+            "related_questions": ["faq_029", "faq_030"]
+        },
+        {
+            "id": "faq_032",
+            "question": "What is the use of the product for Farmer organizations, agro-processors?",
+            "answer": "Benefits for different groups: 1. Farmers: Can use seller side Sharik WRF to get better market prices for produce 2. Farmer organizations, agro-processors and aggregators: Can access working capital through buyer side Sharik WRF to increase aggregation capacity during harvest season when commodities are fresh and abundant.",
+            "category": "financing",
+            "subcategory": "warehouse_receipt",
+            "keywords": ["farmers", "agro-processors", "working capital", "aggregation"],
+            "related_questions": ["faq_031", "faq_033"]
+        },
+        {
+            "id": "faq_033",
+            "question": "Who are the target customers of Warehouse Receipt Financing?",
+            "answer": "Target customers are bank clients involved in agricultural commodity transactions: 1. Seller side WRF: Uses combined Murabaha and Tijara contracts 2. Buyer side WRF: Based on murabaha principles. Product serves both buyers and sellers in agricultural commodity transactions.",
+            "category": "financing",
+            "subcategory": "warehouse_receipt",
+            "keywords": ["target customers", "WRF", "Murabaha", "Tijara"],
+            "related_questions": ["faq_032", "faq_034"]
+        },
+        {
+            "id": "faq_034",
+            "question": "What is Sharik Warehouse Receipt Financing(WRF)?",
+            "answer": "Sharik WRF is a financial arrangement that allows farmers, agricultural cooperatives, and agro-processors to access bank financing by pledging warehouse receipts issued against commodities stored in accredited warehouses.",
+            "category": "financing",
+            "subcategory": "warehouse_receipt",
+            "keywords": ["Sharik", "WRF", "warehouse receipt", "financing"],
+            "related_questions": ["faq_033", "faq_032"]
+        },
+        {
+            "id": "faq_035",
+            "question": "What is E-Commerce?",
+            "answer": "E-commerce (electronic commerce) is the buying and selling of goods and services over the internet. It includes various online business activities such as: 1. Online retail 2. Market platforms 3. Hotel and travel booking.",
+            "category": "digital_services",
+            "subcategory": "e_commerce",
+            "keywords": ["e-commerce", "online business", "digital retail", "online transactions"],
+            "related_questions": ["faq_036", "faq_037"]
+        },
+        {
+            "id": "faq_036",
+            "question": "What is MPGS?",
+            "answer": "MPGS (MasterCard Payment Gateway Services) is a payment gateway platform that enables secure and efficient online transaction processing. It's integrated with MasterCard network, allowing businesses to accept payments from MasterCard and other supported cards.",
+            "category": "digital_services",
+            "subcategory": "payment_gateway",
+            "keywords": ["MPGS", "MasterCard", "payment gateway", "online payments"],
+            "related_questions": ["faq_037", "faq_035"]
+        },
+        {
+            "id": "faq_037",
+            "question": "What is GetFee Pay by Link?",
+            "answer": "Pay by Link is an innovative online payment solution that enables businesses to send payment requests via secure links. This method allows customers to complete transactions without cash or direct card detail entry on websites.",
+            "category": "digital_services",
+            "subcategory": "payment_solutions",
+            "keywords": ["Pay by Link", "GetFee", "online payment", "secure link"],
+            "related_questions": ["faq_036", "faq_035"]
+        },
+        {
+            "id": "faq_038",
+            "question": "What are the Benefits of MPGS and Pay by Link for Merchants?",
+            "answer": "Key benefits include: 1. Wide Range of Payment Options: Accept all major cards (American Express, Visa, MasterCard) 2. Secure Transactions: Industry-standard security protocols 3. Real-Time Reporting: Detailed transaction reports via MPGS Dashboard Portal 4. Boosting Hard Currency Earnings: Accept foreign currency payments, beneficial for international business.",
+            "category": "digital_services",
+            "subcategory": "payment_solutions",
+            "keywords": ["MPGS", "Pay by Link", "merchant benefits", "payments"],
+            "related_questions": ["faq_039", "faq_040"]
+        },
+        {
+            "id": "faq_039",
+            "question": "Who are the Target Market?",
+            "answer": "Target markets include: 1. Hotels 2. Guest houses 3. Apartments 4. Tour & Travels 5. Car Rentals 6. Supermarkets 7. Healthcare centers 8. E-commerce Businesses 9. Exporters and other businesses.",
+            "category": "digital_services",
+            "subcategory": "target_market",
+            "keywords": ["target market", "businesses", "merchants", "sectors"],
+            "related_questions": ["faq_038", "faq_040"]
+        },
+        {
+            "id": "faq_040",
+            "question": "What are the Requirements needed to join the MPGS and GetFee Pay by Link Merchant program?",
+            "answer": "Requirements: 1. Application and agreement form 2. Legal Documents: - Commercial License (renewed) - Business license - Tin registration - Trade Name license (if any) 3. For partnerships: Memorandum of Association and Article of Association mandatory.",
+            "category": "digital_services",
+            "subcategory": "requirements",
+            "keywords": ["requirements", "documents", "registration", "legal"],
+            "related_questions": ["faq_038", "faq_041"]
+        },
+        {
+            "id": "faq_041",
+            "question": "What are the registration criteria for Dashen Bank's interest free DubeAle service?",
+            "answer": "Registration steps: 1. Download DubeAle App from Play/App Store 2. Provide active phone number 3. Submit accurate personal information 4. Visit branch to link account with DubeAle platform 5. Authorize transactions via OTP 6. Maintain possession of registered phone number for app access.",
+            "category": "digital_banking",
+            "subcategory": "dubeale",
+            "keywords": ["DubeAle", "registration", "interest-free", "criteria"],
+            "related_questions": ["faq_040", "faq_039"]
+        },
+        {
+            "id": "faq_042",
+            "question": "What is investment saving account?",
+            "answer": "An investment saving account is a saving deposit account that offers progressive interest rates above the minimum saving rate. It's specifically designed to meet investment and financial management needs of for-profit and non-profit organizations.",
+            "category": "banking",
+            "subcategory": "savings",
+            "keywords": ["investment saving", "progressive interest", "deposit account"],
+            "related_questions": ["faq_043", "faq_044"]
+        },
+        {
+            "id": "faq_043",
+            "question": "Who can open investment saving account?",
+            "answer": "Target customers include: 1. Cooperatives 2. Unions 3. Institutions 4. Organizations 5. Associations 6. Business entities",
+            "category": "banking",
+            "subcategory": "savings",
+            "keywords": ["eligibility", "investment account", "business entities"],
+            "related_questions": ["faq_042", "faq_044"]
+        },
+        {
+            "id": "faq_044",
+            "question": "What are the benefits of opening investment saving account?",
+            "answer": "Benefits include: 1. Free detailed monthly account statements 2. Progressive interest rate based on end-of-day balances 3. Priority access to credit for target customers and members",
+            "category": "banking",
+            "subcategory": "savings",
+            "keywords": ["benefits", "interest rate", "account statement", "credit access"],
+            "related_questions": ["faq_042", "faq_045"]
+        },
+        {
+            "id": "faq_045",
+            "question": "What are the eligibility criteria to open an Investment Saving Account?",
+            "answer": "Requirements vary by entity type: For Entities under formation: 1. Letter from licensing authority 2. TIN certificate 3. Letter of support (foreign societies/charities) 4. Valid ID of authorized operator. For Operational Entities: 1. Commercial registration/business license 2. Authenticated rules/regulations 3. Recent general assembly meeting minutes 4. TIN registration 5. Support letter (foreign entities) 6. Stamped application letter 7. Valid ID of authorized persons",
+            "category": "banking",
+            "subcategory": "requirements",
+            "keywords": ["eligibility", "requirements", "documents", "registration"],
+            "related_questions": ["faq_043", "faq_044"]
+        },
+        {
+            "id": "faq_046",
+            "question": "How much is the limit of Interest Free Dube Ale?",
+            "answer": "Maximum spending limit is ETB 700,000.00. Customers can purchase halal products/services in single or multiple transactions. Note: Converting spending limit to cash is strictly prohibited.",
+            "category": "digital_banking",
+            "subcategory": "dubeale",
+            "keywords": ["spending limit", "DubeAle", "interest-free", "halal"],
+            "related_questions": ["faq_047", "faq_041"]
+        },
+        {
+            "id": "faq_047",
+            "question": "What are the requirements to be eligible for Dashen Bank's Interest Free DubeAle service?",
+            "answer": "Requirements: 1. Age 18+ 2. Active IFB account at Dashen Bank. For employed individuals: Unconditional institutional guarantee. For business owners: 1. Shariah Compliant business 2. Renewed business license & registration 3. Tax clearance 4. Government office letter 5. Legal documents 6. Acceptable collateral",
+            "category": "digital_banking",
+            "subcategory": "dubeale",
+            "keywords": ["eligibility", "requirements", "DubeAle", "interest-free"],
+            "related_questions": ["faq_046", "faq_041"]
+        },
+        {
+            "id": "faq_048",
+            "question": "What is Interest Free DubeAle?",
+            "answer": "DubeAle is a short-term, interest-free digital financing solution using Murabaha Structure (Cost plus mark-up). Features: 1. Collaboration with merchants and traders 2. Enables IFB customers to purchase Shariah Compliant goods/services 3. Pay later options: three months, six months, or one year 4. Equal monthly installment repayment system.",
+            "category": "digital_banking",
+            "subcategory": "dubeale",
+            "keywords": ["DubeAle", "interest-free", "Murabaha", "financing"],
+            "related_questions": ["faq_049", "faq_050"]
+        },
+        {
+            "id": "faq_049",
+            "question": "What are the repayment modalities?",
+            "answer": "Three financing period options available: 1. Three Months 2. Six Months 3. One Year. All repayments are made through equal monthly installments.",
+            "category": "digital_banking",
+            "subcategory": "dubeale",
+            "keywords": ["repayment", "installments", "financing period"],
+            "related_questions": ["faq_048", "faq_050"]
+        },
+        {
+            "id": "faq_050",
+            "question": "Where can one find Shops that offer Interest Free DubeAle services?",
+            "answer": "Customers can find Halal Merchants list directly on the Interest Free DubeAle application, including: 1. Physical addresses 2. Telephone Numbers 3. Websites",
+            "category": "digital_banking",
+            "subcategory": "dubeale",
+            "keywords": ["merchants", "shops", "halal", "locations"],
+            "related_questions": ["faq_048", "faq_051"]
+        },
+        {
+            "id": "faq_051",
+            "question": "What are the benefits of Interest free DubeAle?",
+            "answer": "Key benefit is 'Buy Now Pay Later' platform features: 1. Purchase Shariah-compliant products/services 2. Pay bills later through installments 3. Zero interest payments 4. Access to various partner Merchants",
+            "category": "digital_banking",
+            "subcategory": "dubeale",
+            "keywords": ["benefits", "buy now pay later", "installments", "interest-free"],
+            "related_questions": ["faq_048", "faq_052"]
+        },
+        {
+            "id": "faq_052",
+            "question": "What is the Dashen Bank Shoppers Club Account?",
+            "answer": "A specialized saving account for frequent shoppers offering: 1. Enhanced shopping experience 2. Transaction cash-backs 3. Financing for household item purchases",
+            "category": "banking",
+            "subcategory": "special_accounts",
+            "keywords": ["shoppers club", "cash-back", "savings", "shopping"],
+            "related_questions": ["faq_053", "faq_054"]
+        },
+        {
+            "id": "faq_053",
+            "question": "Who can open a Dashen Bank Shoppers Club Account?",
+            "answer": "Eligibility: 1. Savvy customers with frequent shopping habits 2. Minimum initial deposit of ETB 50,000 required",
+            "category": "banking",
+            "subcategory": "special_accounts",
+            "keywords": ["eligibility", "shoppers club", "minimum deposit"],
+            "related_questions": ["faq_052", "faq_054"]
+        },
+        {
+            "id": "faq_054",
+            "question": "Does the Shoppers Club Account offer different membership levels?",
+            "answer": "Yes, five membership levels available: 1. Basic: ETB 50,000 2. Blue: ETB 100,000 3. Silver: ETB 200,000 4. Gold: ETB 300,000 5. Platinum: ETB 400,000",
+            "category": "banking",
+            "subcategory": "special_accounts",
+            "keywords": ["membership levels", "tiers", "shoppers club"],
+            "related_questions": ["faq_052", "faq_053"]
+        },
+        {
+            "id": "faq_055",
+            "question": "What are the benefits of Dashen Bank's Travellers Club Account?",
+            "answer": "Benefits include: 1. 7.00% annual interest rate on monthly minimum balance 2. FCY provision for international travel 3. 5% discount on local transactions with partner businesses 4. Priority access to FNPL and DubeAle loans 5. Automatic loan processing 6. Up to 75% loan against locked deposit 7. Priority access to consumer loan products",
+            "category": "banking",
+            "subcategory": "special_accounts",
+            "keywords": ["travelers club", "benefits", "FCY", "loans"],
+            "related_questions": ["faq_056", "faq_057"]
+        },
+        {
+            "id": "faq_056",
+            "question": "What are the Membership levels of Dashen Bank's Travellers Club Account?",
+            "answer": "Five membership levels: 1. Basic: ETB 500,000 2. Blue: ETB 1,000,000 3. Silver: ETB 1,500,000 4. Gold: ETB 2,000,000 5. Platinum: ETB 2,500,000",
+            "category": "banking",
+            "subcategory": "special_accounts",
+            "keywords": ["membership levels", "travelers club", "tiers"],
+            "related_questions": ["faq_055", "faq_057"]
+        },
+        {
+            "id": "faq_057",
+            "question": "Can a customer deposit the initial deposit for club membership in different days?",
+            "answer": "No, the minimum initial deposit amount must be made at once, either through cash deposit or fund transfer.",
+            "category": "banking",
+            "subcategory": "special_accounts",
+            "keywords": ["initial deposit", "membership", "deposit rules"],
+            "related_questions": ["faq_056", "faq_058"]
+        },
+        {
+            "id": "faq_058",
+            "question": "Could a shoppers or traveller club customer transfer, transact or withdraw funds from his/her club account?",
+            "answer": "Yes, customers can transfer, transact or withdraw funds above their minimum club membership balance without losing membership status.",
+            "category": "banking",
+            "subcategory": "special_accounts",
+            "keywords": ["withdrawals", "transfers", "transactions", "minimum balance"],
+            "related_questions": ["faq_057", "faq_059"]
+        },
+        {
+            "id": "faq_059",
+            "question": "What is Equb Saving account?",
+            "answer": "A saving account with progressive interest rates, specifically designed for and operated by Equb Administrators only.",
+            "category": "banking",
+            "subcategory": "savings",
+            "keywords": ["Equb", "savings", "progressive interest"],
+            "related_questions": ["faq_060", "faq_061"]
+        },
+        {
+            "id": "faq_060",
+            "question": "What's the initial deposit of Equb Saving account?",
+            "answer": "Can be opened with zero balance, but account will be closed if no credit is made within 30 days.",
+            "category": "banking",
+            "subcategory": "savings",
+            "keywords": ["initial deposit", "Equb", "account opening"],
+            "related_questions": ["faq_059", "faq_061"]
+        },
+        {
+            "id": "faq_061",
+            "question": "What are the eligibility criteria to open Equb saving account?",
+            "answer": "Requirements: 1. Renewed ID (card/license/passport) 2. Two recent photographs of operators 3. Formal/semi-formal agreement showing: - List of members and contributions - Account signatories and limits 4. All members must have regular accounts with the bank",
+            "category": "banking",
+            "subcategory": "savings",
+            "keywords": ["eligibility", "requirements", "Equb", "documentation"],
+            "related_questions": ["faq_059", "faq_062"]
+        },
+        {
+            "id": "faq_062",
+            "question": "What benefits does the Equb Savings Account offer?",
+            "answer": "Benefits: 1. Progressive interest rate up to 9% 2. Business loan eligibility for both administrators and members",
+            "category": "banking",
+            "subcategory": "savings",
+            "keywords": ["benefits", "Equb", "interest rate", "loans"],
+            "related_questions": ["faq_059", "faq_061"]
+        },
+        {
+            "id": "faq_063",
+            "question": "What are the financial services Dashen Bank provides in collaboration with Ethio-Telecom?",
+            "answer": "Three main services: 1. Telebirr Mela (Micro Credit): Enables borrowing up to ETB 2,000/day, 5,000/week, 10,000/month 2. Telebirr Endekise (Overdraft): Emergency borrowing up to ETB 2,000 3. Telebirr Sanduk (Micro Saving): Provides micro saving services [[1]](https://businessinfoeth.com/ethio-telecom-introduces-ai-enabled-credit-services-in-collaboration-with-dashen-bank/) [[2]](https://ethiopianbusinessreview.net/advanced-digital-financial-services-from-telebirr-dashen-bank/)",
+            "category": "digital_banking",
+            "subcategory": "telebirr",
+            "keywords": ["Telebirr", "micro credit", "overdraft", "savings"],
+            "related_questions": ["faq_064", "faq_065"]
+        },
+        {
+            "id": "faq_064",
+            "question": "How can I open an account if I am not an Ethiopian resident?",
+            "answer": "Process: 1. Visit respective embassy for letter of attorney to representative 2. Representative obtains original document from foreign minister 3. Documents must be authenticated at Document and Authentication Bureau 4. Present authenticated documents to open account",
+            "category": "banking",
+            "subcategory": "account_opening",
+            "keywords": ["non-resident", "account opening", "documentation"],
+            "related_questions": ["faq_065", "faq_066"]
+        },
+        {
+            "id": "faq_065",
+            "question": "How do I make school fee payments on Amole?",
+            "answer": "Steps: 1. Login to Amole IB 2. Select Bill Payment 3. Choose school fee option 4. Select source account 5. Enter PNR 6. Verify payment amount and school name 7. Confirm with OTP 8. Download PDF receipt",
+            "category": "digital_banking",
+            "subcategory": "bill_payments",
+            "keywords": ["school fees", "Amole", "bill payment", "PNR"],
+            "related_questions": ["faq_066", "faq_067"]
+        },
+        {
+            "id": "faq_066",
+            "question": "What is the MESMER project loan amount provided per enterprise?",
+            "answer": "Loan amounts by business category: 1. Start-ups: ETB 95,000 2. Micro: ETB 95,000 3. Small: ETB 235,000 4. Medium: ETB 375,000",
+            "category": "loans",
+            "subcategory": "mesmer",
+            "keywords": ["MESMER", "loan amounts", "business categories"],
+            "related_questions": ["faq_067", "faq_068"]
+        },
+        {
+            "id": "faq_067",
+            "question": "What are the supporting documents required during MESMER project application and later appraisal?",
+            "answer": "Required documents: 1. Residence (Kebele) ID 2. Business license 3. TIN certificate 4. Employee number evidence 5. Business presence evidence (photos)",
+            "category": "loans",
+            "subcategory": "mesmer",
+            "keywords": ["documents", "requirements", "MESMER", "application"],
+            "related_questions": ["faq_066", "faq_068"]
+        },
+        {
+            "id": "faq_068",
+            "question": "Who is excluded from applying to MESMER project (Eligibility Criteria)?",
+            "answer": "Excluded businesses: 1. Those without valid business license 2. Non-compliant with social/environmental/governance criteria 3. Unlawful/political purposes 4. State/parastatal owned enterprises 5. Those with undue private benefit 6. Businesses in Addis Ababa",
+            "category": "loans",
+            "subcategory": "mesmer",
+            "keywords": ["exclusions", "eligibility", "MESMER", "criteria"],
+            "related_questions": ["faq_066", "faq_067"]
+        },
+        {
+            "id": "faq_069",
+            "question": "Where do I apply for MESMER project?",
+            "answer": "Two application methods: 1. Online registration at www.ethiomesmer.com 2. Visit nearest Dashen Bank branch to apply through the portal",
+            "category": "loans",
+            "subcategory": "mesmer",
+            "keywords": ["application", "MESMER", "registration", "portal"],
+            "related_questions": ["faq_066", "faq_067"]
+        },
+        {
+            "id": "faq_070",
+            "question": "What are the steps to apply for FNPL service?",
+            "answer": "Process: 1. Maintain Dashen Bank Account 2. Get branch approval for limit up to ETB 600,000 (1/3rd of income) 3. Receive approved limit and unique ID via SMS 4. Book flight on EAL FlyGate 5. Choose FNPL payment option 6. Complete payment using customer ID and OTP 7. Receive email confirmation",
+            "category": "loans",
+            "subcategory": "fnpl",
+            "keywords": ["FNPL", "application", "flight booking", "payment"],
+            "related_questions": ["faq_071", "faq_072"]
+        },
+        {
+            "id": "faq_071",
+            "question": "What is the eligibility criteria to apply for Fly Now Pay Later (FNPL) service?",
+            "answer": "Requirements: 1. Active Dashen Bank account 2. Proof of income 3. Marriage certificate 4. Renewed business license 5. Commercial registration 6. TIN and tax clearance 7. Acceptable collateral 8. Must be employed or self-employed",
+            "category": "loans",
+            "subcategory": "fnpl",
+            "keywords": ["eligibility", "FNPL", "requirements", "documents"],
+            "related_questions": ["faq_070", "faq_072"]
+        },
+        {
+            "id": "faq_072",
+            "question": "What types of businesses are not considered to be halal (accepted) to use the IFBC (Sharik) service?",
+            "answer": "Prohibited businesses: 1. Those without proportional profit/loss to risk 2. Usurious lending businesses 3. Gharar-based businesses (uncertainty/speculation) 4. Gambling industry 5. Non-permissible products/services (e.g., pork, alcohol)",
+            "category": "banking",
+            "subcategory": "islamic_banking",
+            "keywords": ["halal", "Sharik", "prohibited business", "IFBC"],
+            "related_questions": ["faq_073", "faq_074"]
+        },
+        {
+            "id": "faq_073",
+            "question": "Can I use Sharik cards on conventional POS and ATMs?",
+            "answer": "Yes, Sharik cards are compatible with all Dashen Bank ATM and POS machines",            "category": "banking",
+            "subcategory": "islamic_banking",
+            "keywords": ["Sharik", "ATM", "POS", "cards"],
+            "related_questions": ["faq_072", "faq_074"]
+        },
+        {
+            "id": "faq_074",
+            "question": "What are the requirements for applying for different types of loans?",
+            "answer": "Requirements include: 1. Collateral (type depends on loan) 2. Business assessment by bank 3. TIN number 4. Business license 5. Tax clearance 6. VAT certificate. Visit nearest branch for detailed information.",
+            "category": "loans",
+            "subcategory": "requirements",
+            "keywords": ["loan requirements", "documents", "collateral"],
+            "related_questions": ["faq_075", "faq_076"]
+        },
+        {
+            "id": "faq_075",
+            "question": "How do I transfer money to another person?",
+            "answer": "Two options available: 1. Visit nearby Dashen Bank branch 2. Use Amole mobile banking",
+            "category": "banking",
+            "subcategory": "transfers",
+            "keywords": ["money transfer", "Amole", "branch services"],
+            "related_questions": ["faq_076", "faq_077"]
+        },
+        {
+            "id": "faq_076",
+            "question": "How do I open Amole wallet account?",
+            "answer": "Visit your nearest Dashen Bank branch to open an Amole wallet account.",
+            "category": "digital_banking",
+            "subcategory": "amole",
+            "keywords": ["Amole wallet", "account opening"],
+            "related_questions": ["faq_077", "faq_078"]
+        },
+        {
+            "id": "faq_077",
+            "question": "How do I create Amole mobile banking?",
+            "answer": "Process: Visit nearest Dashen Bank branch with: 1. Valid ID 2. Passbook",
+            "category": "digital_banking",
+            "subcategory": "amole",
+            "keywords": ["Amole", "mobile banking", "setup"],
+            "related_questions": ["faq_076", "faq_078"]
+        },
+        {
+            "id": "faq_078",
+            "question": "Can I get both personalized and non-personalized Card?",
+            "answer": "No, customers can only have one plastic Card.",
+            "category": "cards",
+            "subcategory": "mastercard",
+            "keywords": ["personalized", "non-personalized", "plastic card"],
+            "related_questions": ["faq_079", "faq_080"]
+        },
+        {
+            "id": "faq_079",
+            "question": "Where Can I use my plastic Card?",
+            "answer": "Card can be used at: 1. E-commerce websites 2. ATMs 3. POS machines (wherever MasterCard is accepted)",
+            "category": "cards",
+            "subcategory": "mastercard",
+            "keywords": ["card usage", "ATM", "POS", "e-commerce"],
+            "related_questions": ["faq_080", "faq_081"]
+        },
+        {
+            "id": "faq_080",
+            "question": "How Can I get the PIN for my Card?",
+            "answer": "Set your PIN through Cardholder portal at: https://mea.cardholder.mastercard.com/mpts/eis/app",
+            "category": "cards",
+            "subcategory": "mastercard",
+            "keywords": ["PIN", "cardholder portal", "setup"],
+            "related_questions": ["faq_081", "faq_082"]
+        },
+        {
+            "id": "faq_081",
+            "question": "Can I use the Card to pay for online purchases while I am in Ethiopia?",
+            "answer": "Yes, but remember to download transaction receipts for future reference or queries.",
+            "category": "cards",
+            "subcategory": "mastercard",
+            "keywords": ["online purchases", "Ethiopia", "receipts"],
+            "related_questions": ["faq_082", "faq_083"]
+        },
+        {
+            "id": "faq_082",
+            "question": "What is needed to perform e-commerce transactions?",
+            "answer": "Required information: 1. Card number 2. Expiry date 3. Card verification value",
+            "category": "cards",
+            "subcategory": "mastercard",
+            "keywords": ["e-commerce", "card details", "verification"],
+            "related_questions": ["faq_083", "faq_084"]
+        },
+        {
+            "id": "faq_078",
+            "question": "Can I get both personalized and non-personalized Card?",
+            "answer": "No, customers can only have one plastic Card.",
+            "category": "cards",
+            "subcategory": "mastercard",
+            "keywords": ["personalized", "non-personalized", "plastic card"],
+            "related_questions": ["faq_079", "faq_080"]
+        },
+        {
+            "id": "faq_079",
+            "question": "Where Can I use my plastic Card?",
+            "answer": "Card can be used at: 1. E-commerce websites 2. ATMs 3. POS machines (wherever MasterCard is accepted)",
+            "category": "cards",
+            "subcategory": "mastercard",
+            "keywords": ["card usage", "ATM", "POS", "e-commerce"],
+            "related_questions": ["faq_080", "faq_081"]
+        },
+        {
+            "id": "faq_080",
+            "question": "How Can I get the PIN for my Card?",
+            "answer": "Set your PIN through Cardholder portal at: https://mea.cardholder.mastercard.com/mpts/eis/app",
+            "category": "cards",
+            "subcategory": "mastercard",
+            "keywords": ["PIN", "cardholder portal", "setup"],
+            "related_questions": ["faq_081", "faq_082"]
+        },
+        {
+            "id": "faq_081",
+            "question": "Can I use the Card to pay for online purchases while I am in Ethiopia?",
+            "answer": "Yes, but remember to download transaction receipts for future reference or queries.",
+            "category": "cards",
+            "subcategory": "mastercard",
+            "keywords": ["online purchases", "Ethiopia", "receipts"],
+            "related_questions": ["faq_082", "faq_083"]
+        },
+        {
+            "id": "faq_082",
+            "question": "What is needed to perform e-commerce transactions?",
+            "answer": "Required information: 1. Card number 2. Expiry date 3. Card verification value",
+            "category": "cards",
+            "subcategory": "mastercard",
+            "keywords": ["e-commerce", "card details", "verification"],
+            "related_questions": ["faq_083", "faq_084"]
+        },
+        {
+            "id": "faq_083",
+            "question": "What are the maximum and minimum transaction amounts?",
+            "answer": "Limits: 1. ATM withdrawals: Up to USD 400 2. POS and e-commerce: Up to available balance 3. Minimum transaction: USD 1",
+            "category": "cards",
+            "subcategory": "limits",
+            "keywords": ["transaction limits", "withdrawal limits", "minimum amount"],
+            "related_questions": ["faq_084", "faq_085"]
+        },
+        {
+            "id": "faq_084",
+            "question": "What do I have to do when my Card is lost or stolen?",
+            "answer": "Three options: 1. Block/unblock via Cardholder portal 2. Visit Dashen Branches/Forex Bureaus 3. Call 24/7 Contact Center at 6333",
+            "category": "cards",
+            "subcategory": "security",
+            "keywords": ["lost card", "stolen card", "block card"],
+            "related_questions": ["faq_085", "faq_086"]
+        },
+        {
+            "id": "faq_085",
+            "question": "How is my Card protected?",
+            "answer": "Two security measures: 1. PIN protection for ATMs and POS machines 2. OTP for E-commerce transactions",
+            "category": "cards",
+            "subcategory": "security",
+            "keywords": ["card protection", "PIN", "OTP"],
+            "related_questions": ["faq_086", "faq_087"]
+        },
+        {
+            "id": "faq_086",
+            "question": "What is OTP and what it is used for?",
+            "answer": "OTP (One-Time Password): 1. Sent to registered mobile/email 2. Required for transaction authorization 3. Transaction won't process without OTP entry",
+            "category": "cards",
+            "subcategory": "security",
+            "keywords": ["OTP", "authorization", "security"],
+            "related_questions": ["faq_085", "faq_087"]
+        },
+        {
+            "id": "faq_087",
+            "question": "Can I use my Card in Ethiopia?",
+            "answer": "Yes, card works both locally and internationally wherever MasterCard is accepted.",
+            "category": "cards",
+            "subcategory": "usage",
+            "keywords": ["Ethiopia", "card usage", "international"],
+            "related_questions": ["faq_088", "faq_089"]
+        },
+        {
+            "id": "faq_095",
+            "question": "What is the swift code of Dashen Bank?",
+            "answer": "DASHETTA [[4,7,9]]",
+            "category": "general",
+            "subcategory": "banking_codes",
+            "keywords": ["swift code", "bank code", "international transfer"],
+            "related_questions": ["faq_096", "faq_097"]
+        },
+        {
+            "id": "faq_096",
+            "question": "What are the types of cards issued by Dashen Bank?",
+            "answer": "Two main American Express cards: 1. American Express Gold Card 2. American Express Green Card [[1,3,5,6]]",
+            "category": "cards",
+            "subcategory": "types",
+            "keywords": ["American Express", "card types", "Gold Card", "Green Card"],
+            "related_questions": ["faq_097", "faq_098"]
+        },
+        {
+            "id": "faq_097",
+            "question": "How can I register to start using Amole banking services?",
+            "answer": "Two registration methods: 1. Dial *996# 2. Visit nearest Branch",           
+            "category": "digital_banking",
+            "subcategory": "amole",
+            "keywords": ["registration", "Amole", "banking services"],
+            "related_questions": ["faq_098", "faq_099"]
+        },
+        {
+            "id": "faq_098",
+            "question": "How can I get information on Dashen Bank's loan service?",
+            "answer": "Two options: 1. Visit website: www.dashenbanksc.com 2. Visit nearby Dashen Bank branch",
+            "category": "loans",
+            "subcategory": "information",
+            "keywords": ["loan information", "services", "branches"],
+            "related_questions": ["faq_099", "faq_100"]
+        },
+        {
+            "id": "faq_099",
+            "question": "What is the phone number for Dashen Bank's Contact Center?",
+            "answer": "Two contact numbers: 1. +251 115 18 3091 2. 6333",
+            "category": "general",
+            "subcategory": "contact",
+            "keywords": ["contact center", "phone number", "customer service"],
+            "related_questions": ["faq_100", "faq_092"]
+        },
+        {
+            "id": "faq_100",
+            "question": "How many branches does Dashen Bank have?",
+            "answer": "Over 800 branches (As of March 30, 2023)",
+            "category": "general",
+            "subcategory": "locations",
+            "keywords": ["branches", "locations", "network"],
+            "related_questions": ["faq_093", "faq_099"]
+        }
+    ]
+}
